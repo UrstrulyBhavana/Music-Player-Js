@@ -31,3 +31,5 @@ HTML: Structure of the music player interface.
 CSS: Styling for the player, including animations and responsive design.
 
 JavaScript: Core functionality for audio playback, progress bar updates, and controls.
+
+![Image](https://github.com/user-attachments/assets/c0d00ea2-844f-4558-8269-3e68fe03feab)
